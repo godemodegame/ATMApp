@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "9c645a006a3851a03f0786543e4e0465"
+build_time: [1555585016, 949145000]
+inputs:
+  "/Users/godemodegame/Desktop/ATMApp/Sources/Run/main.swift": [1555584727, 0]

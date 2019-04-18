@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "0f3260d72e6d810c1c0cf7167aa5f30f"
+build_time: [1555584980, 607060000]
+inputs:
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOConcurrencyHelpers/atomics.swift": [1555584770, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOConcurrencyHelpers/lock.swift": [1555584770, 0]

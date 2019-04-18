@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/master.swiftdeps"
+  },
+  "/Users/godemodegame/Desktop/ATMApp/Sources/App/Models/Atm.swift": {
+    "dependencies": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/Atm.d",
+    "object": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/Models/Atm.swift.o",
+    "swiftmodule": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/Atm~partial.swiftmodule",
+    "swift-dependencies": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/Atm.swiftdeps"
+  },
+  "/Users/godemodegame/Desktop/ATMApp/Sources/App/app.swift": {
+    "dependencies": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/app.d",
+    "object": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/app.swift.o",
+    "swiftmodule": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/app~partial.swiftmodule",
+    "swift-dependencies": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/app.swiftdeps"
+  },
+  "/Users/godemodegame/Desktop/ATMApp/Sources/App/boot.swift": {
+    "dependencies": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/boot.d",
+    "object": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/boot.swift.o",
+    "swiftmodule": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/boot~partial.swiftmodule",
+    "swift-dependencies": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/boot.swiftdeps"
+  },
+  "/Users/godemodegame/Desktop/ATMApp/Sources/App/configure.swift": {
+    "dependencies": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/configure.d",
+    "object": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/godemodegame/Desktop/ATMApp/Sources/App/routes.swift": {
+    "dependencies": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/routes.d",
+    "object": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/App.build/routes.swiftdeps"
+  }
+}

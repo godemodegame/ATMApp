@@ -1,0 +1,388 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["SS", ""]
+- ["SS", "isIPAddress"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- !private "AF_INET"
+- !private "AF_INET6"
+- "Bool"
+- "String"
+- !private "in6_addr"
+- !private "in_addr"
+- !private "inet_pton"
+- !private "||"
+depends-member:
+- !private ["4Core22AnyReflectionDecodableP", "AF_INET"]
+- !private ["4Core22AnyReflectionDecodableP", "AF_INET6"]
+- !private ["4Core22AnyReflectionDecodableP", "in6_addr"]
+- !private ["4Core22AnyReflectionDecodableP", "in_addr"]
+- !private ["4Core22AnyReflectionDecodableP", "inet_pton"]
+- !private ["4Core22AnyReflectionDecodableP", "withCString"]
+- !private ["4Core21BasicKeyRepresentableP", "AF_INET"]
+- !private ["4Core21BasicKeyRepresentableP", "AF_INET6"]
+- !private ["4Core21BasicKeyRepresentableP", "in6_addr"]
+- !private ["4Core21BasicKeyRepresentableP", "in_addr"]
+- !private ["4Core21BasicKeyRepresentableP", "inet_pton"]
+- !private ["4Core21BasicKeyRepresentableP", "withCString"]
+- !private ["s23BidirectionalCollectionP", "AF_INET"]
+- !private ["s23BidirectionalCollectionP", "AF_INET6"]
+- !private ["s23BidirectionalCollectionP", "in6_addr"]
+- !private ["s23BidirectionalCollectionP", "in_addr"]
+- !private ["s23BidirectionalCollectionP", "inet_pton"]
+- !private ["s23BidirectionalCollectionP", "withCString"]
+- !private ["s7CVarArgP", "AF_INET"]
+- !private ["s7CVarArgP", "AF_INET6"]
+- !private ["s7CVarArgP", "in6_addr"]
+- !private ["s7CVarArgP", "in_addr"]
+- !private ["s7CVarArgP", "inet_pton"]
+- !private ["s7CVarArgP", "withCString"]
+- !private ["s10CollectionP", "AF_INET"]
+- !private ["s10CollectionP", "AF_INET6"]
+- !private ["s10CollectionP", "in6_addr"]
+- !private ["s10CollectionP", "in_addr"]
+- !private ["s10CollectionP", "inet_pton"]
+- !private ["s10CollectionP", "withCString"]
+- !private ["s10ComparableP", "AF_INET"]
+- !private ["s10ComparableP", "AF_INET6"]
+- !private ["s10ComparableP", "in6_addr"]
+- !private ["s10ComparableP", "in_addr"]
+- !private ["s10ComparableP", "inet_pton"]
+- !private ["s10ComparableP", "withCString"]
+- !private ["s28CustomDebugStringConvertibleP", "AF_INET"]
+- !private ["s28CustomDebugStringConvertibleP", "AF_INET6"]
+- !private ["s28CustomDebugStringConvertibleP", "in6_addr"]
+- !private ["s28CustomDebugStringConvertibleP", "in_addr"]
+- !private ["s28CustomDebugStringConvertibleP", "inet_pton"]
+- !private ["s28CustomDebugStringConvertibleP", "withCString"]
+- !private ["s29CustomPlaygroundQuickLookableP", "AF_INET"]
+- !private ["s29CustomPlaygroundQuickLookableP", "AF_INET6"]
+- !private ["s29CustomPlaygroundQuickLookableP", "in6_addr"]
+- !private ["s29CustomPlaygroundQuickLookableP", "in_addr"]
+- !private ["s29CustomPlaygroundQuickLookableP", "inet_pton"]
+- !private ["s29CustomPlaygroundQuickLookableP", "withCString"]
+- !private ["s17CustomReflectableP", "AF_INET"]
+- !private ["s17CustomReflectableP", "AF_INET6"]
+- !private ["s17CustomReflectableP", "in6_addr"]
+- !private ["s17CustomReflectableP", "in_addr"]
+- !private ["s17CustomReflectableP", "inet_pton"]
+- !private ["s17CustomReflectableP", "withCString"]
+- !private ["s23CustomStringConvertibleP", "AF_INET"]
+- !private ["s23CustomStringConvertibleP", "AF_INET6"]
+- !private ["s23CustomStringConvertibleP", "in6_addr"]
+- !private ["s23CustomStringConvertibleP", "in_addr"]
+- !private ["s23CustomStringConvertibleP", "inet_pton"]
+- !private ["s23CustomStringConvertibleP", "withCString"]
+- !private ["s9DecodableP", "AF_INET"]
+- !private ["s9DecodableP", "AF_INET6"]
+- !private ["s9DecodableP", "in6_addr"]
+- !private ["s9DecodableP", "in_addr"]
+- !private ["s9DecodableP", "inet_pton"]
+- !private ["s9DecodableP", "withCString"]
+- !private ["s9EncodableP", "AF_INET"]
+- !private ["s9EncodableP", "AF_INET6"]
+- !private ["s9EncodableP", "in6_addr"]
+- !private ["s9EncodableP", "in_addr"]
+- !private ["s9EncodableP", "inet_pton"]
+- !private ["s9EncodableP", "withCString"]
+- !private ["s9EquatableP", "AF_INET"]
+- !private ["s9EquatableP", "AF_INET6"]
+- !private ["s9EquatableP", "in6_addr"]
+- !private ["s9EquatableP", "in_addr"]
+- !private ["s9EquatableP", "inet_pton"]
+- !private ["s9EquatableP", "withCString"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "AF_INET"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "AF_INET6"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "in6_addr"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "in_addr"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "inet_pton"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "withCString"]
+- !private ["s26ExpressibleByStringLiteralP", "AF_INET"]
+- !private ["s26ExpressibleByStringLiteralP", "AF_INET6"]
+- !private ["s26ExpressibleByStringLiteralP", "in6_addr"]
+- !private ["s26ExpressibleByStringLiteralP", "in_addr"]
+- !private ["s26ExpressibleByStringLiteralP", "inet_pton"]
+- !private ["s26ExpressibleByStringLiteralP", "withCString"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "AF_INET"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "AF_INET6"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "in6_addr"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "in_addr"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "inet_pton"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "withCString"]
+- !private ["s8HashableP", "AF_INET"]
+- !private ["s8HashableP", "AF_INET6"]
+- !private ["s8HashableP", "in6_addr"]
+- !private ["s8HashableP", "in_addr"]
+- !private ["s8HashableP", "inet_pton"]
+- !private ["s8HashableP", "withCString"]
+- !private ["4Core23LosslessDataConvertibleP", "AF_INET"]
+- !private ["4Core23LosslessDataConvertibleP", "AF_INET6"]
+- !private ["4Core23LosslessDataConvertibleP", "in6_addr"]
+- !private ["4Core23LosslessDataConvertibleP", "in_addr"]
+- !private ["4Core23LosslessDataConvertibleP", "inet_pton"]
+- !private ["4Core23LosslessDataConvertibleP", "withCString"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "AF_INET"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "AF_INET6"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "in6_addr"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "in_addr"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "inet_pton"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "withCString"]
+- !private ["s25LosslessStringConvertibleP", "AF_INET"]
+- !private ["s25LosslessStringConvertibleP", "AF_INET6"]
+- !private ["s25LosslessStringConvertibleP", "in6_addr"]
+- !private ["s25LosslessStringConvertibleP", "in_addr"]
+- !private ["s25LosslessStringConvertibleP", "inet_pton"]
+- !private ["s25LosslessStringConvertibleP", "withCString"]
+- !private ["s10MirrorPathP", "AF_INET"]
+- !private ["s10MirrorPathP", "AF_INET6"]
+- !private ["s10MirrorPathP", "in6_addr"]
+- !private ["s10MirrorPathP", "in_addr"]
+- !private ["s10MirrorPathP", "inet_pton"]
+- !private ["s10MirrorPathP", "withCString"]
+- !private ["So8NSCodingP", "withCString"]
+- !private ["So9NSCopyingP", "withCString"]
+- !private ["So21NSItemProviderReadingP", "withCString"]
+- !private ["So21NSItemProviderWritingP", "withCString"]
+- !private ["So16NSMutableCopyingP", "withCString"]
+- !private ["So8NSObjectC", "withCString"]
+- !private ["So16NSObjectProtocolP", "withCString"]
+- !private ["So14NSSecureCodingP", "withCString"]
+- !private ["So8NSStringC", "withCString"]
+- !private ["s26RangeReplaceableCollectionP", "AF_INET"]
+- !private ["s26RangeReplaceableCollectionP", "AF_INET6"]
+- !private ["s26RangeReplaceableCollectionP", "in6_addr"]
+- !private ["s26RangeReplaceableCollectionP", "in_addr"]
+- !private ["s26RangeReplaceableCollectionP", "inet_pton"]
+- !private ["s26RangeReplaceableCollectionP", "withCString"]
+- !private ["4Core19ReflectionDecodableP", "AF_INET"]
+- !private ["4Core19ReflectionDecodableP", "AF_INET6"]
+- !private ["4Core19ReflectionDecodableP", "in6_addr"]
+- !private ["4Core19ReflectionDecodableP", "in_addr"]
+- !private ["4Core19ReflectionDecodableP", "inet_pton"]
+- !private ["4Core19ReflectionDecodableP", "withCString"]
+- !private ["s8SequenceP", "AF_INET"]
+- !private ["s8SequenceP", "AF_INET6"]
+- !private ["s8SequenceP", "in6_addr"]
+- !private ["s8SequenceP", "in_addr"]
+- !private ["s8SequenceP", "inet_pton"]
+- !private ["s8SequenceP", "withCString"]
+- !private ["SS", "AF_INET"]
+- !private ["SS", "AF_INET6"]
+- ["SS", "Bool"]
+- !private ["SS", "in6_addr"]
+- !private ["SS", "in_addr"]
+- !private ["SS", "inet_pton"]
+- ["SS", "isIPAddress"]
+- !private ["SS", "withCString"]
+- !private ["s14StringProtocolP", "AF_INET"]
+- !private ["s14StringProtocolP", "AF_INET6"]
+- !private ["s14StringProtocolP", "in6_addr"]
+- !private ["s14StringProtocolP", "in_addr"]
+- !private ["s14StringProtocolP", "inet_pton"]
+- !private ["s14StringProtocolP", "withCString"]
+- !private ["s16TextOutputStreamP", "AF_INET"]
+- !private ["s16TextOutputStreamP", "AF_INET6"]
+- !private ["s16TextOutputStreamP", "in6_addr"]
+- !private ["s16TextOutputStreamP", "in_addr"]
+- !private ["s16TextOutputStreamP", "inet_pton"]
+- !private ["s16TextOutputStreamP", "withCString"]
+- !private ["s20TextOutputStreamableP", "AF_INET"]
+- !private ["s20TextOutputStreamableP", "AF_INET6"]
+- !private ["s20TextOutputStreamableP", "in6_addr"]
+- !private ["s20TextOutputStreamableP", "in_addr"]
+- !private ["s20TextOutputStreamableP", "inet_pton"]
+- !private ["s20TextOutputStreamableP", "withCString"]
+- !private ["4HTTP16URLRepresentableP", "AF_INET"]
+- !private ["4HTTP16URLRepresentableP", "AF_INET6"]
+- !private ["4HTTP16URLRepresentableP", "in6_addr"]
+- !private ["4HTTP16URLRepresentableP", "in_addr"]
+- !private ["4HTTP16URLRepresentableP", "inet_pton"]
+- !private ["4HTTP16URLRepresentableP", "withCString"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "AF_INET"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "AF_INET6"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "in6_addr"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "in_addr"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "inet_pton"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "withCString"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "AF_INET"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "AF_INET6"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "in6_addr"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "in_addr"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "inet_pton"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "withCString"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "AF_INET"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "AF_INET6"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "in6_addr"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "in_addr"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "inet_pton"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "withCString"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "AF_INET"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "AF_INET6"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "in6_addr"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "in_addr"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "inet_pton"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "withCString"]
+- !private ["s33_ExpressibleByStringInterpolationP", "AF_INET"]
+- !private ["s33_ExpressibleByStringInterpolationP", "AF_INET6"]
+- !private ["s33_ExpressibleByStringInterpolationP", "in6_addr"]
+- !private ["s33_ExpressibleByStringInterpolationP", "in_addr"]
+- !private ["s33_ExpressibleByStringInterpolationP", "inet_pton"]
+- !private ["s33_ExpressibleByStringInterpolationP", "withCString"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "withCString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "withCString"]
+- !private ["s21_ObjectiveCBridgeableP", "AF_INET"]
+- !private ["s21_ObjectiveCBridgeableP", "AF_INET6"]
+- !private ["s21_ObjectiveCBridgeableP", "in6_addr"]
+- !private ["s21_ObjectiveCBridgeableP", "in_addr"]
+- !private ["s21_ObjectiveCBridgeableP", "inet_pton"]
+- !private ["s21_ObjectiveCBridgeableP", "withCString"]
+- !private ["s16_SwiftStringViewP", "AF_INET"]
+- !private ["s16_SwiftStringViewP", "AF_INET6"]
+- !private ["s16_SwiftStringViewP", "in6_addr"]
+- !private ["s16_SwiftStringViewP", "in_addr"]
+- !private ["s16_SwiftStringViewP", "inet_pton"]
+- !private ["s16_SwiftStringViewP", "withCString"]
+- !private ["SC8in6_addrV", "init"]
+- !private ["SC7in_addrV", "init"]
+depends-nominal:
+- !private "4Core22AnyReflectionDecodableP"
+- !private "4Core21BasicKeyRepresentableP"
+- !private "s23BidirectionalCollectionP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s8HashableP"
+- !private "4Core23LosslessDataConvertibleP"
+- !private "4HTTP29LosslessHTTPBodyRepresentableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "4Core19ReflectionDecodableP"
+- !private "s8SequenceP"
+- "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "4HTTP16URLRepresentableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+- !private "SC8in6_addrV"
+- !private "SC7in_addrV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIO.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIOTLS.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Async.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/asn1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/tls1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/dtls1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pkcs12.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl2.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pem2.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl23.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl3.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/x509v3.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/md5.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pkcs7.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/x509.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/sha.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/dsa.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ecdsa.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/rsa.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOZlib/include/CNIOZlib.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/obj_mac.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/hmac.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ec.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/rand.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/conf.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/opensslconf.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/dh.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ecdh.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/lhash.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/stack.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/safestack.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pem.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/bn.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIODarwin/include/CNIODarwin.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/bio.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/crypto.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/srtp.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/evp.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ossl_typ.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/buffer.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/err.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/opensslfeatures.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/objects.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/opensslv.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/x509_vfy.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl-support.git--2359138821295600615/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-zlib-support.git--1071467962839356487/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIOZlib.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIODarwin.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIOLinux.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "077f909e529f55bc83f3f46d2bd5154b"

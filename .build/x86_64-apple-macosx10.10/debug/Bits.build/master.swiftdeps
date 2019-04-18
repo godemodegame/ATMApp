@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "43fe0f53655aabebf1ce88d234455906"
+build_time: [1555584985, 836165000]
+inputs:
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/BitsError.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Byte+Alphabet.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Byte+Control.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Byte+Digit.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/ByteBuffer+peek.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/ByteBuffer+require.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/ByteBuffer+string.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Bytes.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Data+Bytes.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Data+Strings.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Deprecated.swift": [1555584769, 0]

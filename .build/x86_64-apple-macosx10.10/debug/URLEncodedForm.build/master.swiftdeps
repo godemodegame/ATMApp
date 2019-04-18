@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "512cf870791564a62552c05cd9842b8d"
+build_time: [1555584991, 411760000]
+inputs:
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Utilities/Exports.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1555584771, 0]

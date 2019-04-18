@@ -1,0 +1,870 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "routes"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- !private "AssignmentPrecedence"
+- !private "Atm"
+- !private "Future"
+- !private "HTTPStatus"
+- "Router"
+- !private "StringLiteralType"
+- !private "flatMap"
+- "routes"
+depends-member:
+- !private ["6Fluent12AnyMigrationP", "accessibility"]
+- !private ["6Fluent12AnyMigrationP", "building"]
+- !private ["6Fluent12AnyMigrationP", "house"]
+- !private ["6Fluent12AnyMigrationP", "instalationLocation"]
+- !private ["6Fluent12AnyMigrationP", "isCashInModule"]
+- !private ["6Fluent12AnyMigrationP", "isCashToCard"]
+- !private ["6Fluent12AnyMigrationP", "isCashToPay"]
+- !private ["6Fluent12AnyMigrationP", "isCurrencyExchengeModule"]
+- !private ["6Fluent12AnyMigrationP", "isLov"]
+- !private ["6Fluent12AnyMigrationP", "isSelfCollection"]
+- !private ["6Fluent12AnyMigrationP", "latitude"]
+- !private ["6Fluent12AnyMigrationP", "locality"]
+- !private ["6Fluent12AnyMigrationP", "longitude"]
+- !private ["6Fluent12AnyMigrationP", "nameOfLocality"]
+- !private ["6Fluent12AnyMigrationP", "nameOfRegion"]
+- !private ["6Fluent12AnyMigrationP", "nameOfStreet"]
+- !private ["6Fluent12AnyMigrationP", "nameSubjectOfFederation"]
+- !private ["6Fluent12AnyMigrationP", "number"]
+- !private ["6Fluent12AnyMigrationP", "numberOfHouse"]
+- !private ["6Fluent12AnyMigrationP", "parameter"]
+- !private ["6Fluent12AnyMigrationP", "postIndex"]
+- !private ["6Fluent12AnyMigrationP", "query"]
+- !private ["6Fluent12AnyMigrationP", "region"]
+- !private ["6Fluent12AnyMigrationP", "save"]
+- !private ["6Fluent12AnyMigrationP", "street"]
+- !private ["6Fluent12AnyMigrationP", "subjectOfFederation"]
+- !private ["6Fluent12AnyMigrationP", "type"]
+- !private ["6Fluent12AnyMigrationP", "workingTime"]
+- !private ["6Fluent8AnyModelP", "accessibility"]
+- !private ["6Fluent8AnyModelP", "building"]
+- !private ["6Fluent8AnyModelP", "house"]
+- !private ["6Fluent8AnyModelP", "instalationLocation"]
+- !private ["6Fluent8AnyModelP", "isCashInModule"]
+- !private ["6Fluent8AnyModelP", "isCashToCard"]
+- !private ["6Fluent8AnyModelP", "isCashToPay"]
+- !private ["6Fluent8AnyModelP", "isCurrencyExchengeModule"]
+- !private ["6Fluent8AnyModelP", "isLov"]
+- !private ["6Fluent8AnyModelP", "isSelfCollection"]
+- !private ["6Fluent8AnyModelP", "latitude"]
+- !private ["6Fluent8AnyModelP", "locality"]
+- !private ["6Fluent8AnyModelP", "longitude"]
+- !private ["6Fluent8AnyModelP", "nameOfLocality"]
+- !private ["6Fluent8AnyModelP", "nameOfRegion"]
+- !private ["6Fluent8AnyModelP", "nameOfStreet"]
+- !private ["6Fluent8AnyModelP", "nameSubjectOfFederation"]
+- !private ["6Fluent8AnyModelP", "number"]
+- !private ["6Fluent8AnyModelP", "numberOfHouse"]
+- !private ["6Fluent8AnyModelP", "parameter"]
+- !private ["6Fluent8AnyModelP", "postIndex"]
+- !private ["6Fluent8AnyModelP", "query"]
+- !private ["6Fluent8AnyModelP", "region"]
+- !private ["6Fluent8AnyModelP", "save"]
+- !private ["6Fluent8AnyModelP", "street"]
+- !private ["6Fluent8AnyModelP", "subjectOfFederation"]
+- !private ["6Fluent8AnyModelP", "type"]
+- !private ["6Fluent8AnyModelP", "workingTime"]
+- !private ["4Core14AnyReflectableP", "accessibility"]
+- !private ["4Core14AnyReflectableP", "building"]
+- !private ["4Core14AnyReflectableP", "house"]
+- !private ["4Core14AnyReflectableP", "instalationLocation"]
+- !private ["4Core14AnyReflectableP", "isCashInModule"]
+- !private ["4Core14AnyReflectableP", "isCashToCard"]
+- !private ["4Core14AnyReflectableP", "isCashToPay"]
+- !private ["4Core14AnyReflectableP", "isCurrencyExchengeModule"]
+- !private ["4Core14AnyReflectableP", "isLov"]
+- !private ["4Core14AnyReflectableP", "isSelfCollection"]
+- !private ["4Core14AnyReflectableP", "latitude"]
+- !private ["4Core14AnyReflectableP", "locality"]
+- !private ["4Core14AnyReflectableP", "longitude"]
+- !private ["4Core14AnyReflectableP", "nameOfLocality"]
+- !private ["4Core14AnyReflectableP", "nameOfRegion"]
+- !private ["4Core14AnyReflectableP", "nameOfStreet"]
+- !private ["4Core14AnyReflectableP", "nameSubjectOfFederation"]
+- !private ["4Core14AnyReflectableP", "number"]
+- !private ["4Core14AnyReflectableP", "numberOfHouse"]
+- !private ["4Core14AnyReflectableP", "parameter"]
+- !private ["4Core14AnyReflectableP", "postIndex"]
+- !private ["4Core14AnyReflectableP", "query"]
+- !private ["4Core14AnyReflectableP", "region"]
+- !private ["4Core14AnyReflectableP", "save"]
+- !private ["4Core14AnyReflectableP", "street"]
+- !private ["4Core14AnyReflectableP", "subjectOfFederation"]
+- !private ["4Core14AnyReflectableP", "type"]
+- !private ["4Core14AnyReflectableP", "workingTime"]
+- !private ["4Core22AnyReflectionDecodableP", "init"]
+- !private ["3SQL11AnySQLTableP", "accessibility"]
+- !private ["3SQL11AnySQLTableP", "building"]
+- !private ["3SQL11AnySQLTableP", "house"]
+- !private ["3SQL11AnySQLTableP", "instalationLocation"]
+- !private ["3SQL11AnySQLTableP", "isCashInModule"]
+- !private ["3SQL11AnySQLTableP", "isCashToCard"]
+- !private ["3SQL11AnySQLTableP", "isCashToPay"]
+- !private ["3SQL11AnySQLTableP", "isCurrencyExchengeModule"]
+- !private ["3SQL11AnySQLTableP", "isLov"]
+- !private ["3SQL11AnySQLTableP", "isSelfCollection"]
+- !private ["3SQL11AnySQLTableP", "latitude"]
+- !private ["3SQL11AnySQLTableP", "locality"]
+- !private ["3SQL11AnySQLTableP", "longitude"]
+- !private ["3SQL11AnySQLTableP", "nameOfLocality"]
+- !private ["3SQL11AnySQLTableP", "nameOfRegion"]
+- !private ["3SQL11AnySQLTableP", "nameOfStreet"]
+- !private ["3SQL11AnySQLTableP", "nameSubjectOfFederation"]
+- !private ["3SQL11AnySQLTableP", "number"]
+- !private ["3SQL11AnySQLTableP", "numberOfHouse"]
+- !private ["3SQL11AnySQLTableP", "parameter"]
+- !private ["3SQL11AnySQLTableP", "postIndex"]
+- !private ["3SQL11AnySQLTableP", "query"]
+- !private ["3SQL11AnySQLTableP", "region"]
+- !private ["3SQL11AnySQLTableP", "save"]
+- !private ["3SQL11AnySQLTableP", "street"]
+- !private ["3SQL11AnySQLTableP", "subjectOfFederation"]
+- !private ["3SQL11AnySQLTableP", "type"]
+- !private ["3SQL11AnySQLTableP", "workingTime"]
+- !private ["3App3AtmC", "accessibility"]
+- !private ["3App3AtmC", "building"]
+- !private ["3App3AtmC", "deinit"]
+- !private ["3App3AtmC", "house"]
+- !private ["3App3AtmC", "instalationLocation"]
+- !private ["3App3AtmC", "isCashInModule"]
+- !private ["3App3AtmC", "isCashToCard"]
+- !private ["3App3AtmC", "isCashToPay"]
+- !private ["3App3AtmC", "isCurrencyExchengeModule"]
+- !private ["3App3AtmC", "isLov"]
+- !private ["3App3AtmC", "isSelfCollection"]
+- !private ["3App3AtmC", "latitude"]
+- !private ["3App3AtmC", "locality"]
+- !private ["3App3AtmC", "longitude"]
+- !private ["3App3AtmC", "nameOfLocality"]
+- !private ["3App3AtmC", "nameOfRegion"]
+- !private ["3App3AtmC", "nameOfStreet"]
+- !private ["3App3AtmC", "nameSubjectOfFederation"]
+- !private ["3App3AtmC", "number"]
+- !private ["3App3AtmC", "numberOfHouse"]
+- !private ["3App3AtmC", "parameter"]
+- !private ["3App3AtmC", "postIndex"]
+- !private ["3App3AtmC", "query"]
+- !private ["3App3AtmC", "region"]
+- !private ["3App3AtmC", "save"]
+- !private ["3App3AtmC", "street"]
+- !private ["3App3AtmC", "subjectOfFederation"]
+- !private ["3App3AtmC", "type"]
+- !private ["3App3AtmC", "workingTime"]
+- !private ["4Core21BasicKeyRepresentableP", "init"]
+- !private ["5Async11BasicWorkerP", "content"]
+- !private ["5Async11BasicWorkerP", "parameters"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["7Service9ContainerP", "content"]
+- !private ["7Service9ContainerP", "parameters"]
+- !private ["7Service14ContainerAliasP", "content"]
+- !private ["7Service14ContainerAliasP", "parameters"]
+- !private ["5Vapor7ContentP", "accessibility"]
+- !private ["5Vapor7ContentP", "building"]
+- !private ["5Vapor7ContentP", "house"]
+- !private ["5Vapor7ContentP", "init"]
+- !private ["5Vapor7ContentP", "instalationLocation"]
+- !private ["5Vapor7ContentP", "isCashInModule"]
+- !private ["5Vapor7ContentP", "isCashToCard"]
+- !private ["5Vapor7ContentP", "isCashToPay"]
+- !private ["5Vapor7ContentP", "isCurrencyExchengeModule"]
+- !private ["5Vapor7ContentP", "isLov"]
+- !private ["5Vapor7ContentP", "isSelfCollection"]
+- !private ["5Vapor7ContentP", "latitude"]
+- !private ["5Vapor7ContentP", "locality"]
+- !private ["5Vapor7ContentP", "longitude"]
+- !private ["5Vapor7ContentP", "nameOfLocality"]
+- !private ["5Vapor7ContentP", "nameOfRegion"]
+- !private ["5Vapor7ContentP", "nameOfStreet"]
+- !private ["5Vapor7ContentP", "nameSubjectOfFederation"]
+- !private ["5Vapor7ContentP", "number"]
+- !private ["5Vapor7ContentP", "numberOfHouse"]
+- !private ["5Vapor7ContentP", "parameter"]
+- !private ["5Vapor7ContentP", "postIndex"]
+- !private ["5Vapor7ContentP", "query"]
+- !private ["5Vapor7ContentP", "region"]
+- !private ["5Vapor7ContentP", "save"]
+- !private ["5Vapor7ContentP", "street"]
+- !private ["5Vapor7ContentP", "subjectOfFederation"]
+- !private ["5Vapor7ContentP", "type"]
+- !private ["5Vapor7ContentP", "workingTime"]
+- !private ["5Vapor16ContentContainerV", "decode"]
+- !private ["s28CustomDebugStringConvertibleP", "content"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "parameters"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "content"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "parameters"]
+- !private ["11DatabaseKit0A11ConnectableP", "content"]
+- !private ["11DatabaseKit0A11ConnectableP", "parameters"]
+- !private ["s9DecodableP", "accessibility"]
+- !private ["s9DecodableP", "building"]
+- !private ["s9DecodableP", "house"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "instalationLocation"]
+- !private ["s9DecodableP", "isCashInModule"]
+- !private ["s9DecodableP", "isCashToCard"]
+- !private ["s9DecodableP", "isCashToPay"]
+- !private ["s9DecodableP", "isCurrencyExchengeModule"]
+- !private ["s9DecodableP", "isLov"]
+- !private ["s9DecodableP", "isSelfCollection"]
+- !private ["s9DecodableP", "latitude"]
+- !private ["s9DecodableP", "locality"]
+- !private ["s9DecodableP", "longitude"]
+- !private ["s9DecodableP", "nameOfLocality"]
+- !private ["s9DecodableP", "nameOfRegion"]
+- !private ["s9DecodableP", "nameOfStreet"]
+- !private ["s9DecodableP", "nameSubjectOfFederation"]
+- !private ["s9DecodableP", "number"]
+- !private ["s9DecodableP", "numberOfHouse"]
+- !private ["s9DecodableP", "parameter"]
+- !private ["s9DecodableP", "postIndex"]
+- !private ["s9DecodableP", "query"]
+- !private ["s9DecodableP", "region"]
+- !private ["s9DecodableP", "save"]
+- !private ["s9DecodableP", "street"]
+- !private ["s9DecodableP", "subjectOfFederation"]
+- !private ["s9DecodableP", "type"]
+- !private ["s9DecodableP", "workingTime"]
+- !private ["s9EncodableP", "accessibility"]
+- !private ["s9EncodableP", "building"]
+- !private ["s9EncodableP", "delete"]
+- !private ["s9EncodableP", "flatMap"]
+- !private ["s9EncodableP", "house"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "instalationLocation"]
+- !private ["s9EncodableP", "isCashInModule"]
+- !private ["s9EncodableP", "isCashToCard"]
+- !private ["s9EncodableP", "isCashToPay"]
+- !private ["s9EncodableP", "isCurrencyExchengeModule"]
+- !private ["s9EncodableP", "isLov"]
+- !private ["s9EncodableP", "isSelfCollection"]
+- !private ["s9EncodableP", "latitude"]
+- !private ["s9EncodableP", "locality"]
+- !private ["s9EncodableP", "longitude"]
+- !private ["s9EncodableP", "nameOfLocality"]
+- !private ["s9EncodableP", "nameOfRegion"]
+- !private ["s9EncodableP", "nameOfStreet"]
+- !private ["s9EncodableP", "nameSubjectOfFederation"]
+- !private ["s9EncodableP", "number"]
+- !private ["s9EncodableP", "numberOfHouse"]
+- !private ["s9EncodableP", "parameter"]
+- !private ["s9EncodableP", "postIndex"]
+- !private ["s9EncodableP", "query"]
+- !private ["s9EncodableP", "region"]
+- !private ["s9EncodableP", "save"]
+- !private ["s9EncodableP", "street"]
+- !private ["s9EncodableP", "subjectOfFederation"]
+- !private ["s9EncodableP", "transform"]
+- !private ["s9EncodableP", "type"]
+- !private ["s9EncodableP", "workingTime"]
+- !private ["s9EquatableP", "delete"]
+- !private ["s9EquatableP", "flatMap"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "noContent"]
+- !private ["s9EquatableP", "transform"]
+- !private ["3NIO15EventLoopFutureC", "delete"]
+- !private ["3NIO15EventLoopFutureC", "flatMap"]
+- !private ["3NIO15EventLoopFutureC", "transform"]
+- !private ["3NIO14EventLoopGroupP", "content"]
+- !private ["3NIO14EventLoopGroupP", "parameters"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["5Async10FutureTypeP", "delete"]
+- !private ["5Async10FutureTypeP", "flatMap"]
+- !private ["5Async10FutureTypeP", "transform"]
+- !private ["5Vapor20HTTPMessageContainerP", "content"]
+- !private ["5Vapor20HTTPMessageContainerP", "parameters"]
+- !private ["8NIOHTTP118HTTPResponseStatusO", "noContent"]
+- !private ["s8HashableP", "init"]
+- !private ["6Fluent2IDP", "init"]
+- !private ["4Core23LosslessDataConvertibleP", "init"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["6Fluent9MigrationP", "accessibility"]
+- !private ["6Fluent9MigrationP", "building"]
+- !private ["6Fluent9MigrationP", "house"]
+- !private ["6Fluent9MigrationP", "instalationLocation"]
+- !private ["6Fluent9MigrationP", "isCashInModule"]
+- !private ["6Fluent9MigrationP", "isCashToCard"]
+- !private ["6Fluent9MigrationP", "isCashToPay"]
+- !private ["6Fluent9MigrationP", "isCurrencyExchengeModule"]
+- !private ["6Fluent9MigrationP", "isLov"]
+- !private ["6Fluent9MigrationP", "isSelfCollection"]
+- !private ["6Fluent9MigrationP", "latitude"]
+- !private ["6Fluent9MigrationP", "locality"]
+- !private ["6Fluent9MigrationP", "longitude"]
+- !private ["6Fluent9MigrationP", "nameOfLocality"]
+- !private ["6Fluent9MigrationP", "nameOfRegion"]
+- !private ["6Fluent9MigrationP", "nameOfStreet"]
+- !private ["6Fluent9MigrationP", "nameSubjectOfFederation"]
+- !private ["6Fluent9MigrationP", "number"]
+- !private ["6Fluent9MigrationP", "numberOfHouse"]
+- !private ["6Fluent9MigrationP", "parameter"]
+- !private ["6Fluent9MigrationP", "postIndex"]
+- !private ["6Fluent9MigrationP", "query"]
+- !private ["6Fluent9MigrationP", "region"]
+- !private ["6Fluent9MigrationP", "save"]
+- !private ["6Fluent9MigrationP", "street"]
+- !private ["6Fluent9MigrationP", "subjectOfFederation"]
+- !private ["6Fluent9MigrationP", "type"]
+- !private ["6Fluent9MigrationP", "workingTime"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["6Fluent5ModelP", "accessibility"]
+- !private ["6Fluent5ModelP", "building"]
+- !private ["6Fluent5ModelP", "house"]
+- !private ["6Fluent5ModelP", "instalationLocation"]
+- !private ["6Fluent5ModelP", "isCashInModule"]
+- !private ["6Fluent5ModelP", "isCashToCard"]
+- !private ["6Fluent5ModelP", "isCashToPay"]
+- !private ["6Fluent5ModelP", "isCurrencyExchengeModule"]
+- !private ["6Fluent5ModelP", "isLov"]
+- !private ["6Fluent5ModelP", "isSelfCollection"]
+- !private ["6Fluent5ModelP", "latitude"]
+- !private ["6Fluent5ModelP", "locality"]
+- !private ["6Fluent5ModelP", "longitude"]
+- !private ["6Fluent5ModelP", "nameOfLocality"]
+- !private ["6Fluent5ModelP", "nameOfRegion"]
+- !private ["6Fluent5ModelP", "nameOfStreet"]
+- !private ["6Fluent5ModelP", "nameSubjectOfFederation"]
+- !private ["6Fluent5ModelP", "number"]
+- !private ["6Fluent5ModelP", "numberOfHouse"]
+- !private ["6Fluent5ModelP", "parameter"]
+- !private ["6Fluent5ModelP", "postIndex"]
+- !private ["6Fluent5ModelP", "query"]
+- !private ["6Fluent5ModelP", "region"]
+- !private ["6Fluent5ModelP", "save"]
+- !private ["6Fluent5ModelP", "street"]
+- !private ["6Fluent5ModelP", "subjectOfFederation"]
+- !private ["6Fluent5ModelP", "type"]
+- !private ["6Fluent5ModelP", "workingTime"]
+- !private ["9Multipart0A15PartConvertibleP", "init"]
+- !private ["7Routing9ParameterP", "accessibility"]
+- !private ["7Routing9ParameterP", "building"]
+- !private ["7Routing9ParameterP", "house"]
+- !private ["7Routing9ParameterP", "init"]
+- !private ["7Routing9ParameterP", "instalationLocation"]
+- !private ["7Routing9ParameterP", "isCashInModule"]
+- !private ["7Routing9ParameterP", "isCashToCard"]
+- !private ["7Routing9ParameterP", "isCashToPay"]
+- !private ["7Routing9ParameterP", "isCurrencyExchengeModule"]
+- !private ["7Routing9ParameterP", "isLov"]
+- !private ["7Routing9ParameterP", "isSelfCollection"]
+- !private ["7Routing9ParameterP", "latitude"]
+- !private ["7Routing9ParameterP", "locality"]
+- !private ["7Routing9ParameterP", "longitude"]
+- !private ["7Routing9ParameterP", "nameOfLocality"]
+- !private ["7Routing9ParameterP", "nameOfRegion"]
+- !private ["7Routing9ParameterP", "nameOfStreet"]
+- !private ["7Routing9ParameterP", "nameSubjectOfFederation"]
+- !private ["7Routing9ParameterP", "number"]
+- !private ["7Routing9ParameterP", "numberOfHouse"]
+- !private ["7Routing9ParameterP", "parameter"]
+- !private ["7Routing9ParameterP", "postIndex"]
+- !private ["7Routing9ParameterP", "query"]
+- !private ["7Routing9ParameterP", "region"]
+- !private ["7Routing9ParameterP", "save"]
+- !private ["7Routing9ParameterP", "street"]
+- !private ["7Routing9ParameterP", "subjectOfFederation"]
+- !private ["7Routing9ParameterP", "type"]
+- !private ["7Routing9ParameterP", "workingTime"]
+- !private ["5Vapor19ParametersContainerV", "next"]
+- !private ["7Routing27PathComponentsRepresentableP", "init"]
+- !private ["6Fluent12QueryBuilderC", "all"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["4Core11ReflectableP", "accessibility"]
+- !private ["4Core11ReflectableP", "building"]
+- !private ["4Core11ReflectableP", "house"]
+- !private ["4Core11ReflectableP", "instalationLocation"]
+- !private ["4Core11ReflectableP", "isCashInModule"]
+- !private ["4Core11ReflectableP", "isCashToCard"]
+- !private ["4Core11ReflectableP", "isCashToPay"]
+- !private ["4Core11ReflectableP", "isCurrencyExchengeModule"]
+- !private ["4Core11ReflectableP", "isLov"]
+- !private ["4Core11ReflectableP", "isSelfCollection"]
+- !private ["4Core11ReflectableP", "latitude"]
+- !private ["4Core11ReflectableP", "locality"]
+- !private ["4Core11ReflectableP", "longitude"]
+- !private ["4Core11ReflectableP", "nameOfLocality"]
+- !private ["4Core11ReflectableP", "nameOfRegion"]
+- !private ["4Core11ReflectableP", "nameOfStreet"]
+- !private ["4Core11ReflectableP", "nameSubjectOfFederation"]
+- !private ["4Core11ReflectableP", "number"]
+- !private ["4Core11ReflectableP", "numberOfHouse"]
+- !private ["4Core11ReflectableP", "parameter"]
+- !private ["4Core11ReflectableP", "postIndex"]
+- !private ["4Core11ReflectableP", "query"]
+- !private ["4Core11ReflectableP", "region"]
+- !private ["4Core11ReflectableP", "save"]
+- !private ["4Core11ReflectableP", "street"]
+- !private ["4Core11ReflectableP", "subjectOfFederation"]
+- !private ["4Core11ReflectableP", "type"]
+- !private ["4Core11ReflectableP", "workingTime"]
+- !private ["4Core19ReflectionDecodableP", "init"]
+- !private ["5Vapor7RequestC", "content"]
+- !private ["5Vapor7RequestC", "parameters"]
+- !private ["5Vapor16RequestDecodableP", "accessibility"]
+- !private ["5Vapor16RequestDecodableP", "building"]
+- !private ["5Vapor16RequestDecodableP", "content"]
+- !private ["5Vapor16RequestDecodableP", "house"]
+- !private ["5Vapor16RequestDecodableP", "init"]
+- !private ["5Vapor16RequestDecodableP", "instalationLocation"]
+- !private ["5Vapor16RequestDecodableP", "isCashInModule"]
+- !private ["5Vapor16RequestDecodableP", "isCashToCard"]
+- !private ["5Vapor16RequestDecodableP", "isCashToPay"]
+- !private ["5Vapor16RequestDecodableP", "isCurrencyExchengeModule"]
+- !private ["5Vapor16RequestDecodableP", "isLov"]
+- !private ["5Vapor16RequestDecodableP", "isSelfCollection"]
+- !private ["5Vapor16RequestDecodableP", "latitude"]
+- !private ["5Vapor16RequestDecodableP", "locality"]
+- !private ["5Vapor16RequestDecodableP", "longitude"]
+- !private ["5Vapor16RequestDecodableP", "nameOfLocality"]
+- !private ["5Vapor16RequestDecodableP", "nameOfRegion"]
+- !private ["5Vapor16RequestDecodableP", "nameOfStreet"]
+- !private ["5Vapor16RequestDecodableP", "nameSubjectOfFederation"]
+- !private ["5Vapor16RequestDecodableP", "number"]
+- !private ["5Vapor16RequestDecodableP", "numberOfHouse"]
+- !private ["5Vapor16RequestDecodableP", "parameter"]
+- !private ["5Vapor16RequestDecodableP", "parameters"]
+- !private ["5Vapor16RequestDecodableP", "postIndex"]
+- !private ["5Vapor16RequestDecodableP", "query"]
+- !private ["5Vapor16RequestDecodableP", "region"]
+- !private ["5Vapor16RequestDecodableP", "save"]
+- !private ["5Vapor16RequestDecodableP", "street"]
+- !private ["5Vapor16RequestDecodableP", "subjectOfFederation"]
+- !private ["5Vapor16RequestDecodableP", "type"]
+- !private ["5Vapor16RequestDecodableP", "workingTime"]
+- !private ["5Vapor16RequestEncodableP", "accessibility"]
+- !private ["5Vapor16RequestEncodableP", "building"]
+- !private ["5Vapor16RequestEncodableP", "content"]
+- !private ["5Vapor16RequestEncodableP", "house"]
+- !private ["5Vapor16RequestEncodableP", "init"]
+- !private ["5Vapor16RequestEncodableP", "instalationLocation"]
+- !private ["5Vapor16RequestEncodableP", "isCashInModule"]
+- !private ["5Vapor16RequestEncodableP", "isCashToCard"]
+- !private ["5Vapor16RequestEncodableP", "isCashToPay"]
+- !private ["5Vapor16RequestEncodableP", "isCurrencyExchengeModule"]
+- !private ["5Vapor16RequestEncodableP", "isLov"]
+- !private ["5Vapor16RequestEncodableP", "isSelfCollection"]
+- !private ["5Vapor16RequestEncodableP", "latitude"]
+- !private ["5Vapor16RequestEncodableP", "locality"]
+- !private ["5Vapor16RequestEncodableP", "longitude"]
+- !private ["5Vapor16RequestEncodableP", "nameOfLocality"]
+- !private ["5Vapor16RequestEncodableP", "nameOfRegion"]
+- !private ["5Vapor16RequestEncodableP", "nameOfStreet"]
+- !private ["5Vapor16RequestEncodableP", "nameSubjectOfFederation"]
+- !private ["5Vapor16RequestEncodableP", "number"]
+- !private ["5Vapor16RequestEncodableP", "numberOfHouse"]
+- !private ["5Vapor16RequestEncodableP", "parameter"]
+- !private ["5Vapor16RequestEncodableP", "parameters"]
+- !private ["5Vapor16RequestEncodableP", "postIndex"]
+- !private ["5Vapor16RequestEncodableP", "query"]
+- !private ["5Vapor16RequestEncodableP", "region"]
+- !private ["5Vapor16RequestEncodableP", "save"]
+- !private ["5Vapor16RequestEncodableP", "street"]
+- !private ["5Vapor16RequestEncodableP", "subjectOfFederation"]
+- !private ["5Vapor16RequestEncodableP", "type"]
+- !private ["5Vapor16RequestEncodableP", "workingTime"]
+- !private ["5Vapor17ResponseDecodableP", "accessibility"]
+- !private ["5Vapor17ResponseDecodableP", "building"]
+- !private ["5Vapor17ResponseDecodableP", "house"]
+- !private ["5Vapor17ResponseDecodableP", "init"]
+- !private ["5Vapor17ResponseDecodableP", "instalationLocation"]
+- !private ["5Vapor17ResponseDecodableP", "isCashInModule"]
+- !private ["5Vapor17ResponseDecodableP", "isCashToCard"]
+- !private ["5Vapor17ResponseDecodableP", "isCashToPay"]
+- !private ["5Vapor17ResponseDecodableP", "isCurrencyExchengeModule"]
+- !private ["5Vapor17ResponseDecodableP", "isLov"]
+- !private ["5Vapor17ResponseDecodableP", "isSelfCollection"]
+- !private ["5Vapor17ResponseDecodableP", "latitude"]
+- !private ["5Vapor17ResponseDecodableP", "locality"]
+- !private ["5Vapor17ResponseDecodableP", "longitude"]
+- !private ["5Vapor17ResponseDecodableP", "nameOfLocality"]
+- !private ["5Vapor17ResponseDecodableP", "nameOfRegion"]
+- !private ["5Vapor17ResponseDecodableP", "nameOfStreet"]
+- !private ["5Vapor17ResponseDecodableP", "nameSubjectOfFederation"]
+- !private ["5Vapor17ResponseDecodableP", "number"]
+- !private ["5Vapor17ResponseDecodableP", "numberOfHouse"]
+- !private ["5Vapor17ResponseDecodableP", "parameter"]
+- !private ["5Vapor17ResponseDecodableP", "postIndex"]
+- !private ["5Vapor17ResponseDecodableP", "query"]
+- !private ["5Vapor17ResponseDecodableP", "region"]
+- !private ["5Vapor17ResponseDecodableP", "save"]
+- !private ["5Vapor17ResponseDecodableP", "street"]
+- !private ["5Vapor17ResponseDecodableP", "subjectOfFederation"]
+- !private ["5Vapor17ResponseDecodableP", "type"]
+- !private ["5Vapor17ResponseDecodableP", "workingTime"]
+- !private ["5Vapor17ResponseEncodableP", "accessibility"]
+- !private ["5Vapor17ResponseEncodableP", "building"]
+- !private ["5Vapor17ResponseEncodableP", "delete"]
+- !private ["5Vapor17ResponseEncodableP", "flatMap"]
+- !private ["5Vapor17ResponseEncodableP", "house"]
+- !private ["5Vapor17ResponseEncodableP", "init"]
+- !private ["5Vapor17ResponseEncodableP", "instalationLocation"]
+- !private ["5Vapor17ResponseEncodableP", "isCashInModule"]
+- !private ["5Vapor17ResponseEncodableP", "isCashToCard"]
+- !private ["5Vapor17ResponseEncodableP", "isCashToPay"]
+- !private ["5Vapor17ResponseEncodableP", "isCurrencyExchengeModule"]
+- !private ["5Vapor17ResponseEncodableP", "isLov"]
+- !private ["5Vapor17ResponseEncodableP", "isSelfCollection"]
+- !private ["5Vapor17ResponseEncodableP", "latitude"]
+- !private ["5Vapor17ResponseEncodableP", "locality"]
+- !private ["5Vapor17ResponseEncodableP", "longitude"]
+- !private ["5Vapor17ResponseEncodableP", "nameOfLocality"]
+- !private ["5Vapor17ResponseEncodableP", "nameOfRegion"]
+- !private ["5Vapor17ResponseEncodableP", "nameOfStreet"]
+- !private ["5Vapor17ResponseEncodableP", "nameSubjectOfFederation"]
+- !private ["5Vapor17ResponseEncodableP", "noContent"]
+- !private ["5Vapor17ResponseEncodableP", "number"]
+- !private ["5Vapor17ResponseEncodableP", "numberOfHouse"]
+- !private ["5Vapor17ResponseEncodableP", "parameter"]
+- !private ["5Vapor17ResponseEncodableP", "postIndex"]
+- !private ["5Vapor17ResponseEncodableP", "query"]
+- !private ["5Vapor17ResponseEncodableP", "region"]
+- !private ["5Vapor17ResponseEncodableP", "save"]
+- !private ["5Vapor17ResponseEncodableP", "street"]
+- !private ["5Vapor17ResponseEncodableP", "subjectOfFederation"]
+- !private ["5Vapor17ResponseEncodableP", "transform"]
+- !private ["5Vapor17ResponseEncodableP", "type"]
+- !private ["5Vapor17ResponseEncodableP", "workingTime"]
+- !private ["7Routing17RoutableComponentP", "init"]
+- !private ["5Vapor6RouterP", "delete"]
+- !private ["5Vapor6RouterP", "get"]
+- !private ["5Vapor6RouterP", "post"]
+- !private ["5Vapor6RouterP", "put"]
+- !private ["3SQL8SQLTableP", "accessibility"]
+- !private ["3SQL8SQLTableP", "building"]
+- !private ["3SQL8SQLTableP", "house"]
+- !private ["3SQL8SQLTableP", "instalationLocation"]
+- !private ["3SQL8SQLTableP", "isCashInModule"]
+- !private ["3SQL8SQLTableP", "isCashToCard"]
+- !private ["3SQL8SQLTableP", "isCashToPay"]
+- !private ["3SQL8SQLTableP", "isCurrencyExchengeModule"]
+- !private ["3SQL8SQLTableP", "isLov"]
+- !private ["3SQL8SQLTableP", "isSelfCollection"]
+- !private ["3SQL8SQLTableP", "latitude"]
+- !private ["3SQL8SQLTableP", "locality"]
+- !private ["3SQL8SQLTableP", "longitude"]
+- !private ["3SQL8SQLTableP", "nameOfLocality"]
+- !private ["3SQL8SQLTableP", "nameOfRegion"]
+- !private ["3SQL8SQLTableP", "nameOfStreet"]
+- !private ["3SQL8SQLTableP", "nameSubjectOfFederation"]
+- !private ["3SQL8SQLTableP", "number"]
+- !private ["3SQL8SQLTableP", "numberOfHouse"]
+- !private ["3SQL8SQLTableP", "parameter"]
+- !private ["3SQL8SQLTableP", "postIndex"]
+- !private ["3SQL8SQLTableP", "query"]
+- !private ["3SQL8SQLTableP", "region"]
+- !private ["3SQL8SQLTableP", "save"]
+- !private ["3SQL8SQLTableP", "street"]
+- !private ["3SQL8SQLTableP", "subjectOfFederation"]
+- !private ["3SQL8SQLTableP", "type"]
+- !private ["3SQL8SQLTableP", "workingTime"]
+- !private ["6SQLite0A15DataConvertibleP", "init"]
+- !private ["6SQLite0A27DataTypeStaticRepresentableP", "init"]
+- !private ["12FluentSQLite0B5ModelP", "accessibility"]
+- !private ["12FluentSQLite0B5ModelP", "building"]
+- !private ["12FluentSQLite0B5ModelP", "house"]
+- !private ["12FluentSQLite0B5ModelP", "instalationLocation"]
+- !private ["12FluentSQLite0B5ModelP", "isCashInModule"]
+- !private ["12FluentSQLite0B5ModelP", "isCashToCard"]
+- !private ["12FluentSQLite0B5ModelP", "isCashToPay"]
+- !private ["12FluentSQLite0B5ModelP", "isCurrencyExchengeModule"]
+- !private ["12FluentSQLite0B5ModelP", "isLov"]
+- !private ["12FluentSQLite0B5ModelP", "isSelfCollection"]
+- !private ["12FluentSQLite0B5ModelP", "latitude"]
+- !private ["12FluentSQLite0B5ModelP", "locality"]
+- !private ["12FluentSQLite0B5ModelP", "longitude"]
+- !private ["12FluentSQLite0B5ModelP", "nameOfLocality"]
+- !private ["12FluentSQLite0B5ModelP", "nameOfRegion"]
+- !private ["12FluentSQLite0B5ModelP", "nameOfStreet"]
+- !private ["12FluentSQLite0B5ModelP", "nameSubjectOfFederation"]
+- !private ["12FluentSQLite0B5ModelP", "number"]
+- !private ["12FluentSQLite0B5ModelP", "numberOfHouse"]
+- !private ["12FluentSQLite0B5ModelP", "parameter"]
+- !private ["12FluentSQLite0B5ModelP", "postIndex"]
+- !private ["12FluentSQLite0B5ModelP", "query"]
+- !private ["12FluentSQLite0B5ModelP", "region"]
+- !private ["12FluentSQLite0B5ModelP", "save"]
+- !private ["12FluentSQLite0B5ModelP", "street"]
+- !private ["12FluentSQLite0B5ModelP", "subjectOfFederation"]
+- !private ["12FluentSQLite0B5ModelP", "type"]
+- !private ["12FluentSQLite0B5ModelP", "workingTime"]
+- !private ["12FluentSQLite0B5TableP", "accessibility"]
+- !private ["12FluentSQLite0B5TableP", "building"]
+- !private ["12FluentSQLite0B5TableP", "house"]
+- !private ["12FluentSQLite0B5TableP", "instalationLocation"]
+- !private ["12FluentSQLite0B5TableP", "isCashInModule"]
+- !private ["12FluentSQLite0B5TableP", "isCashToCard"]
+- !private ["12FluentSQLite0B5TableP", "isCashToPay"]
+- !private ["12FluentSQLite0B5TableP", "isCurrencyExchengeModule"]
+- !private ["12FluentSQLite0B5TableP", "isLov"]
+- !private ["12FluentSQLite0B5TableP", "isSelfCollection"]
+- !private ["12FluentSQLite0B5TableP", "latitude"]
+- !private ["12FluentSQLite0B5TableP", "locality"]
+- !private ["12FluentSQLite0B5TableP", "longitude"]
+- !private ["12FluentSQLite0B5TableP", "nameOfLocality"]
+- !private ["12FluentSQLite0B5TableP", "nameOfRegion"]
+- !private ["12FluentSQLite0B5TableP", "nameOfStreet"]
+- !private ["12FluentSQLite0B5TableP", "nameSubjectOfFederation"]
+- !private ["12FluentSQLite0B5TableP", "number"]
+- !private ["12FluentSQLite0B5TableP", "numberOfHouse"]
+- !private ["12FluentSQLite0B5TableP", "parameter"]
+- !private ["12FluentSQLite0B5TableP", "postIndex"]
+- !private ["12FluentSQLite0B5TableP", "query"]
+- !private ["12FluentSQLite0B5TableP", "region"]
+- !private ["12FluentSQLite0B5TableP", "save"]
+- !private ["12FluentSQLite0B5TableP", "street"]
+- !private ["12FluentSQLite0B5TableP", "subjectOfFederation"]
+- !private ["12FluentSQLite0B5TableP", "type"]
+- !private ["12FluentSQLite0B5TableP", "workingTime"]
+- !private ["s8SequenceP", "init"]
+- !private ["7ServiceAAP", "delete"]
+- !private ["7ServiceAAP", "get"]
+- !private ["7ServiceAAP", "post"]
+- !private ["7ServiceAAP", "put"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["11TemplateKit0A17DataRepresentableP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["14URLEncodedForm0aB15DataConvertibleP", "init"]
+- !private ["4HTTP16URLRepresentableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["12FluentSQLite01_B5ModelP", "accessibility"]
+- !private ["12FluentSQLite01_B5ModelP", "building"]
+- !private ["12FluentSQLite01_B5ModelP", "house"]
+- !private ["12FluentSQLite01_B5ModelP", "instalationLocation"]
+- !private ["12FluentSQLite01_B5ModelP", "isCashInModule"]
+- !private ["12FluentSQLite01_B5ModelP", "isCashToCard"]
+- !private ["12FluentSQLite01_B5ModelP", "isCashToPay"]
+- !private ["12FluentSQLite01_B5ModelP", "isCurrencyExchengeModule"]
+- !private ["12FluentSQLite01_B5ModelP", "isLov"]
+- !private ["12FluentSQLite01_B5ModelP", "isSelfCollection"]
+- !private ["12FluentSQLite01_B5ModelP", "latitude"]
+- !private ["12FluentSQLite01_B5ModelP", "locality"]
+- !private ["12FluentSQLite01_B5ModelP", "longitude"]
+- !private ["12FluentSQLite01_B5ModelP", "nameOfLocality"]
+- !private ["12FluentSQLite01_B5ModelP", "nameOfRegion"]
+- !private ["12FluentSQLite01_B5ModelP", "nameOfStreet"]
+- !private ["12FluentSQLite01_B5ModelP", "nameSubjectOfFederation"]
+- !private ["12FluentSQLite01_B5ModelP", "number"]
+- !private ["12FluentSQLite01_B5ModelP", "numberOfHouse"]
+- !private ["12FluentSQLite01_B5ModelP", "parameter"]
+- !private ["12FluentSQLite01_B5ModelP", "postIndex"]
+- !private ["12FluentSQLite01_B5ModelP", "query"]
+- !private ["12FluentSQLite01_B5ModelP", "region"]
+- !private ["12FluentSQLite01_B5ModelP", "save"]
+- !private ["12FluentSQLite01_B5ModelP", "street"]
+- !private ["12FluentSQLite01_B5ModelP", "subjectOfFederation"]
+- !private ["12FluentSQLite01_B5ModelP", "type"]
+- !private ["12FluentSQLite01_B5ModelP", "workingTime"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "6Fluent12AnyMigrationP"
+- !private "6Fluent8AnyModelP"
+- !private "4Core14AnyReflectableP"
+- !private "4Core22AnyReflectionDecodableP"
+- !private "3SQL11AnySQLTableP"
+- !private "3App3AtmC"
+- !private "4Core21BasicKeyRepresentableP"
+- !private "5Async11BasicWorkerP"
+- !private "s23BidirectionalCollectionP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "7Service9ContainerP"
+- !private "7Service14ContainerAliasP"
+- !private "5Vapor7ContentP"
+- !private "5Vapor16ContentContainerV"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "11DatabaseKit0A11ConnectableP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "3NIO15EventLoopFutureC"
+- !private "3NIO14EventLoopGroupP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "5Async10FutureTypeP"
+- !private "5Vapor20HTTPMessageContainerP"
+- !private "8NIOHTTP118HTTPResponseStatusO"
+- !private "s8HashableP"
+- !private "6Fluent2IDP"
+- !private "4Core23LosslessDataConvertibleP"
+- !private "4HTTP29LosslessHTTPBodyRepresentableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "6Fluent9MigrationP"
+- !private "s10MirrorPathP"
+- !private "6Fluent5ModelP"
+- !private "9Multipart0A15PartConvertibleP"
+- !private "7Routing9ParameterP"
+- !private "5Vapor19ParametersContainerV"
+- !private "7Routing27PathComponentsRepresentableP"
+- !private "6Fluent12QueryBuilderC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "4Core11ReflectableP"
+- !private "4Core19ReflectionDecodableP"
+- !private "5Vapor7RequestC"
+- !private "5Vapor16RequestDecodableP"
+- !private "5Vapor16RequestEncodableP"
+- !private "5Vapor17ResponseDecodableP"
+- !private "5Vapor17ResponseEncodableP"
+- !private "7Routing17RoutableComponentP"
+- !private "5Vapor6RouterP"
+- !private "3SQL8SQLTableP"
+- !private "6SQLite0A15DataConvertibleP"
+- !private "6SQLite0A27DataTypeStaticRepresentableP"
+- !private "12FluentSQLite0B5ModelP"
+- !private "12FluentSQLite0B5TableP"
+- !private "s8SequenceP"
+- !private "7ServiceAAP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "11TemplateKit0A17DataRepresentableP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "14URLEncodedForm0aB15DataConvertibleP"
+- !private "4HTTP16URLRepresentableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "12FluentSQLite01_B5ModelP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/SQL.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/FluentSQL.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIO.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/HTTP.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIOTLS.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Async.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Command.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Service.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Console.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/SQLite.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Logging.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Routing.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Random.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Validation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Crypto.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Vapor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/DatabaseKit.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/TemplateKit.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Fluent.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/Multipart.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOSHA1/include/CNIOSHA1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/asn1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/tls1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/dtls1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pkcs12.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl2.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pem2.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl23.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl3.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/x509v3.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/md5.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pkcs7.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/x509.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/sha.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/dsa.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ecdsa.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/rsa.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOZlib/include/CNIOZlib.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/obj_mac.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/hmac.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ec.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/rand.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/conf.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/opensslconf.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/dh.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ecdh.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/lhash.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/stack.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/safestack.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pem.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/bn.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIODarwin/include/CNIODarwin.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/bio.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/crypto.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/srtp.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/evp.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ossl_typ.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/buffer.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/err.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/opensslfeatures.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/objects.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/opensslv.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/x509_vfy.h"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl-support.git--2359138821295600615/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-zlib-support.git--1071467962839356487/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIOZlib.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIODarwin.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/x86_64-apple-macosx10.10/debug/CNIOLinux.build/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/CBase32/include/module.modulemap"
+- "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/CBcrypt/include/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "dba0d62bfd8f3e641558323be36321e6"

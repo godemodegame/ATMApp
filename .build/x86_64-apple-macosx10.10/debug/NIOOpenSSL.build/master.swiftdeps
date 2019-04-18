@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "c798c70293156d145dac4398fc09904e"
+build_time: [1555584987, 126742000]
+inputs:
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/IdentityVerification.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/PosixPort.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLCertificate.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLConnection.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLContext.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLErrors.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLInit.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLPublicKey.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": [1555584772, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/TLSConfiguration.swift": [1555584772, 0]

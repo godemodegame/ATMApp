@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "4f3eebb81ad858fcc5a80f45b21e3532"
+build_time: [1555584991, 401546000]
+inputs:
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Exports.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/FormDataDecoder.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/FormDataEncoder.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartError.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartParser.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartPart.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartPartConvertible.swift": [1555584771, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartSerializer.swift": [1555584771, 0]

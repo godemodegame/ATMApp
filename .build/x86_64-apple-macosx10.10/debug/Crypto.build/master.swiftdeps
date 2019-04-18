@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "6fab1b28a08ed39b065896a1e5d22962"
+build_time: [1555584991, 411522000]
+inputs:
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/BCrypt/BCryptDigest.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Digest/Digest.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Digest/DigestAlgorithm.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/MAC/HMAC.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/MAC/OTP.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSA.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSAKey.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSAPadding.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/CryptoRandom.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/Base32.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/CryptoError.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/Deprecated.swift": [1555584769, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/Exports.swift": [1555584769, 0]

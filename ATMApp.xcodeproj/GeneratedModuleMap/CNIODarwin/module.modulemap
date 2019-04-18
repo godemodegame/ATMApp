@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella header "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIODarwin/include/CNIODarwin.h"
+    export *
+}

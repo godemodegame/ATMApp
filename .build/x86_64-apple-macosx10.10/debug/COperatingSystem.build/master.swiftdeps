@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "2440dfdd0e2f8b2adb35e43af902cab4"
+build_time: [1555584977, 851124000]
+inputs:
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/core.git-9210800844849382486/Sources/COperatingSystem/libc.swift": [1555584769, 0]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "f4a0d4c7390a57c371599474aa226d97"
+build_time: [1555584991, 404134000]
+inputs:
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/console.git--2431895819212044213/Sources/Logging/Exports.swift": [1555584768, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/console.git--2431895819212044213/Sources/Logging/LogLevel.swift": [1555584768, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/console.git--2431895819212044213/Sources/Logging/Logger.swift": [1555584768, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/console.git--2431895819212044213/Sources/Logging/PrintLogger.swift": [1555584768, 0]

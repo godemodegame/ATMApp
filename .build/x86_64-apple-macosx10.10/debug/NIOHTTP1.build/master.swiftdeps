@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "a059dd82c327bd1d6e1b87e4ab32ed54"
+build_time: [1555584985, 836155000]
+inputs:
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/ByteCollectionUtils.swift": [1555584770, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPDecoder.swift": [1555584770, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPEncoder.swift": [1555584770, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1555584770, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1555584770, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1555584770, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1555584770, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPTypes.swift": [1555584770, 0]
+  "/Users/godemodegame/Desktop/ATMApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1555584770, 0]
