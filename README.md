@@ -18,3 +18,16 @@
         <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
     </a>
 </p>
+
+Для запуска нужен linux или macos c установленными swift (минимум v4.1) и vapor(v3.0)
+
+    git clone https://github.com/godemodegame/atmapp.git
+    cd ./atmapp
+    rm -rf .build Package.resolve && vapor build
+    vapor run &
+    
+Чтобы выключить
+    
+    top
+
+и kill PPID , где PPID из top
