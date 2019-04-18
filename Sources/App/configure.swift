@@ -29,4 +29,5 @@ public func configure(_ config: inout Config, _ env: inout Environment, _ servic
     var migrations = MigrationConfig()
     migrations.add(model: Atm.self, database: .sqlite)
     services.register(migrations)
+    services.register(EngineServerConfig.default(hostname: "0.0.0.0"))
 }

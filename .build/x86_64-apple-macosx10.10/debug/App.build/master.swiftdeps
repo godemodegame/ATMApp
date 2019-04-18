@@ -1,9 +1,9 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "5e1331fae34b10b60cd79f7f8f83510b"
-build_time: [1555585016, 272155000]
+build_time: [1555597326, 615340000]
 inputs:
   "/Users/godemodegame/Desktop/ATMApp/Sources/App/Models/Atm.swift": [1555584933, 0]
   "/Users/godemodegame/Desktop/ATMApp/Sources/App/app.swift": [1555584727, 0]
   "/Users/godemodegame/Desktop/ATMApp/Sources/App/boot.swift": [1555584727, 0]
-  "/Users/godemodegame/Desktop/ATMApp/Sources/App/configure.swift": [1555584933, 0]
+  "/Users/godemodegame/Desktop/ATMApp/Sources/App/configure.swift": [1555597275, 0]
   "/Users/godemodegame/Desktop/ATMApp/Sources/App/routes.swift": [1555584933, 0]

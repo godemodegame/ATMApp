@@ -9,6 +9,7 @@ depends-top-level:
 - "Config"
 - !private "DatabasesConfig"
 - !private "EngineRouter"
+- !private "EngineServerConfig"
 - "Environment"
 - !private "ErrorMiddleware"
 - !private "FluentSQLiteProvider"
@@ -67,6 +68,7 @@ depends-member:
 - !private ["6Fluent19MigrationSupportingP", "init"]
 - !private ["s10MirrorPathP", "init"]
 - !private ["9Multipart0A15PartConvertibleP", "init"]
+- !private ["5Vapor15NIOServerConfigV", "default"]
 - !private ["7Routing9ParameterP", "init"]
 - !private ["7Routing27PathComponentsRepresentableP", "init"]
 - !private ["7Service8ProviderP", "init"]
@@ -90,6 +92,7 @@ depends-member:
 - !private ["7ServiceAAP", "default"]
 - !private ["7ServiceAAP", "init"]
 - !private ["7ServiceAAP", "use"]
+- !private ["7Service0A4TypeP", "default"]
 - !private ["7Service0A4TypeP", "init"]
 - !private ["7Service0A4TypeP", "use"]
 - !private ["7Service8ServicesV", "register"]
@@ -145,6 +148,7 @@ depends-nominal:
 - !private "6Fluent19MigrationSupportingP"
 - !private "s10MirrorPathP"
 - !private "9Multipart0A15PartConvertibleP"
+- !private "5Vapor15NIOServerConfigV"
 - !private "7Routing9ParameterP"
 - !private "7Routing27PathComponentsRepresentableP"
 - !private "7Service8ProviderP"
